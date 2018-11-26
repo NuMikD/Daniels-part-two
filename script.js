@@ -40,3 +40,4 @@ if(eventType === 'casual' && tempFahr < 54) {
                               alert(result); 
                               console.log(result);
                               } 
+                              
